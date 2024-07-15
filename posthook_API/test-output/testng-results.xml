@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T11:08:34Z" name="Default suite" finished-at="2024-07-15T11:08:38Z" duration-ms="4073">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T11:08:34Z" name="Default test" finished-at="2024-07-15T11:08:38Z" duration-ms="4073">
+      <class name="restassured.posthook_api">
+        <test-method signature="scheduleHook()[pri:0, instance:restassured.posthook_api@1efe439d]" started-at="2024-07-15T11:08:34Z" name="scheduleHook" finished-at="2024-07-15T11:08:38Z" duration-ms="4030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scheduleHook -->
+      </class> <!-- restassured.posthook_api -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
