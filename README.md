@@ -17,5 +17,5 @@ Delete a book by ID
    4. json-path
 
 2. Create Package under src test java, and then create class.
-3. In class write Code
+3. In class write Code for all requests.
 4. Run code and check Status code of result is right or not.      
